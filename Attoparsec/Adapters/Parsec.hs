@@ -1,4 +1,4 @@
-module AttoToParsec where
+module Attoparsec.Adapters.Parsec where
 
 import qualified Data.Attoparsec.ByteString as A
 import qualified Data.Attoparsec.Internal.Types as AI
